@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/board.png</file>
+        <file>image/game_photo.png</file>
+        <file>image/blue.png</file>
+        <file>image/white.png</file>
+        <file>image/yellow.png</file>
+        <file>image/back_ground.png</file>
+    </qresource>
+</RCC>
